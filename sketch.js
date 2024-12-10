@@ -4,4 +4,5 @@ function setup() {
 
 function draw() {
   background(220);
+  //iz, draw a little smiley face or a shape or something;
 }
