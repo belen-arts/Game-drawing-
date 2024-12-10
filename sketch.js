@@ -20,3 +20,6 @@ function draw() {
 //Anita can you draw a square around me 
   }
 
+
+  // this is a test to work out whether we can edit at the same time! - Iz
+
