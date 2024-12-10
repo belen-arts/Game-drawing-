@@ -15,5 +15,8 @@ function draw() {
   circle(180, 190, 10);
   circle(220, 190, 10);
   //paris draw the expression !
+  fill('black');
+  circle(200,220,30);
+//Anita can you draw a square around me 
   }
 
