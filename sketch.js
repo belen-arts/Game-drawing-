@@ -18,5 +18,10 @@ function draw() {
   fill('black');
   circle(200,220,30);
 //Anita can you draw a square around me 
+
+square (150,150,150);
+
+
   }
+
 
